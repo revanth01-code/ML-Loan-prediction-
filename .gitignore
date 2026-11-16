@@ -1,1 +1,10 @@
-/3.Home Loans Feature Engineering
+# Ignore dataset CSV files (like your train and test data)
+*.csv
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific folders or files (if you want to ignore that specific folder)
+3. Home Loans Feature Engineering 1.ipynb
+1. Home Loans EDA.ipynb
+2. Home Loans Missing values and Outlier.ipynb
